@@ -71,7 +71,7 @@
 </head>
 <body>
 
-  <h1>For My Favorite Person ❤️</h1>
+  <h1>For My Favorite Person Hanan❤️</h1>
   <p>You make my days warmer, brighter, and happier.</p>
 
   <div class="teddy" onclick="showLove()">🧸</div>
